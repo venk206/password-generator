@@ -1,5 +1,7 @@
 # co5c94ba8bb6443081d4208ab
 
+A great way to generate secure passwords!
+
 Quick start:
 
 ```
