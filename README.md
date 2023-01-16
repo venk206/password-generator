@@ -2,6 +2,8 @@
 
 A great way to generate secure passwords!
 
+module 3 solo project Scrimba.com
+
 Quick start:
 
 ```
